@@ -1,0 +1,14 @@
+{
+  "productionUrl": "https://pochade-path.pochade-path.workers.dev/",
+  "socialImagePath": "/assets/img/og-card.png",
+  "lastModified": "2026-07-21",
+  "publicRoutes": [
+    "/",
+    "/about/",
+    "/how-we-review/",
+    "/reviews/",
+    "/contact/",
+    "/disclosure/",
+    "/privacy/"
+  ]
+}
